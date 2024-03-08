@@ -2,23 +2,26 @@
 Library Management System
 The Library Management System (LMS) is a console-based project developed in Java follows Model-View-Controller (MVC) architectural pattern. This structure allows modular development, easier maintenance, and scalability. The console-based MVC LMS provides basic functionality for managing library resources and user interactions.
 1.	Model (M):
-•	Represents the data and business logic.
+   
+   •	Represents the data and business logic.
 
-•	Used to store entities and data logic through getter and setter.
+   •	Used to store entities and data logic through getter and setter.
 
-•	Classes such as 'Book’, 'Library' manage respective entities.
+   •	Classes such as 'Book’, 'Library' manage respective entities.
 
 3.	View (V):
-•	Here it act as menu-driven code where user can interact.
+   
+   •	Here it act as menu-driven code where user can interact.
 
-•	Deals with the user interface.
+   •	Deals with the user interface.
 
-•	Classes responsible for displaying information and interacting with the user via console.
+   •	Classes responsible for displaying information and interacting with the user via console.
 
 4.	Controller (C):
-•	It act as a mediator, handling user input, updating the models, and interacting with the view.
+   
+   •	It act as a mediator, handling user input, updating the models, and interacting with the view.
 
-•	Classes like ‘Controller’ manage the flow of control, processing user commands, and co-ordinating actions.
+   •	Classes like ‘Controller’ manage the flow of control, processing user commands, and co-ordinating actions.
 
 Key Features:
 
