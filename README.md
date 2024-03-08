@@ -12,6 +12,7 @@ The Library Management System (LMS) is a console-based project developed in Java
 3.	Controller (C):
 •	It act as a mediator, handling user input, updating the models, and interacting with the view.
 •	Classes like ‘Controller’ manage the flow of control, processing user commands, and co-ordinating actions.
+
 Key Features:
 •	User can add, read, update or delete books.
 •	Clear separation between user interface and business logic for maintainability.
