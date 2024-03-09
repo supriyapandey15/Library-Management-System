@@ -27,11 +27,8 @@ Library Management System
    	>	Click on File >New>Java Project>Project name.
     
     >	Enter Finish.
-
-
-
-
- 
+    
+Model- View- Controller (MVC) :
 1.	Model (M):
    
     •	Represents the data and business logic.
