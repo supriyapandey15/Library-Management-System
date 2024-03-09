@@ -20,7 +20,15 @@ Library Management System
 
 3.	Configure Eclipse(Set path)
    
-    >	Once it has been downloaded or installed set the workspace location (the path or directory where project will get stored) and lauch your eclipse.
+    >	Once it has been downloaded or installed set the workspace location (the path or directory where project will get stored) and launch your eclipse.
+    
+ 4.	Create Java File:
+
+   	>	Click on File >New>Java Project>Project name.
+    
+    >	Enter Finish.
+
+
 
 
  
