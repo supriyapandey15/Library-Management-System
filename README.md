@@ -2,6 +2,13 @@
 Library Management System
  The Library Management System (LMS) is a console-based project developed in Java follows Model-View-Controller (MVC) architectural pattern. This structure allows modular development, easier 
  maintenance, and scalability. The console-based MVC LMS provides basic functionality for managing library resources and user interactions.
+
+      Insatallation :
+             
+   To run a java program ,you need to have a Java Development Kit (JDK) installed on your system.It includes Java RunTime Environment(JRE),which is needed for running java application.
+   If it is not installed onto the system, then you can download it(JDK) from official oracale website. Once it has been installed then you can compile java program using 'javac' and 'java' in 
+   your terminals on the command prompt
+ 
 1.	Model (M):
    
     •	Represents the data and business logic.
@@ -23,6 +30,9 @@ Library Management System
     •	It act as a mediator, handling user input, updating the models, and interacting with the view.
 
     •	Classes like ‘Controller’ manage the flow of control, processing user commands, and co-ordinating actions.
+
+   Attributes :
+     
 
 Key Features:
 
