@@ -21,6 +21,37 @@ The Library Management System (LMS) is a console-based project developed in Java
 
 •	Classes like ‘Controller’ manage the flow of control, processing user commands, and co-ordinating actions.
 
+# Entities
+## Library
+### Attrributes
+ • LibraryName : Name of the Library
+ 
+ • LibraryAdress : Address of the library
+
+ • Pincode : Pincode of the library location
+
+ • books : list of the books 
+
+ ### Methods :
+ ##### // getter methods for library information
+          • getLibraryName() : Returns library name
+
+          • getLibraryAddress() : Returns Library Address
+
+          • getPincode() : Returns pincode of the library location
+
+          • getBook() : Returns list of the books
+
+ ##### // setter methods to set library details
+           • setLibraryName(String LibraryName) : sets name of the library
+
+           • setLibraryAddress(String LibraryAddress) :sets address of the library
+
+           • setPincode(int Pincode) : sets pincode of the library location
+
+           • setBook(List<Book> books) : sets list of books in the library
+  
+ 
 ## Key Features:
 
 •	User can add, read, update or delete books.
