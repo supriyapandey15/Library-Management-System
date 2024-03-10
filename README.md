@@ -1,6 +1,35 @@
 #                                                                            Library Management System
 The Library Management System (LMS) is a console-based project developed in Java follows Model-View-Controller (MVC) architectural pattern. This structure allows modular development, easier maintenance, and scalability. The console-based MVC LMS provides basic functionality for managing library resources and user interactions.
 
+## How to install, compile and run java program  :
+##### 1. Install Java DEvelopment Kit (JDK):
+  Download and install JDK from the official Oracle website or an alternative website like OpenJDK.
+  
+  Set the **"JAVA_HOME'** environment variable to point to the JDK installation directory.
+##### 2. Write a Java Program :
+ Create a new text file with a **'.java'** extension,
+ 
+ for example : **HelloWorld.java**.
+
+ ##### 3.Compile Java Code:
+ Open command prompt
+
+ Navigate the directory containing java file
+
+ Now,Compile the code using **'javac'** command 
+ 
+               Command: javac HelloWorld.java
+     
+This will create .class file.
+
+##### 4. Run the Java Program :
+ After successfull compilation, run the program using **'java'** commanad.
+ 
+                 Command : java HelloWorld
+
+Ensure that the class name passed to **java** matches the name of the file containing the **'main'** method.
+
+
 ## Model-View-Controller (MVC):
 
 ### 1.	Model (M):
