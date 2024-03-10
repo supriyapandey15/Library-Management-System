@@ -53,11 +53,11 @@ The Library Management System (LMS) is a console-based project developed in Java
   ## Books
   ### Attrributes
   
-          • bookName : Name of the book
+    • bookName : Name of the book
    
-	      • bookAuthor : Author's name of that book
+    • bookAuthor : Author's name of that book
   
-	      • bookPrice : Price of the book
+    • bookPrice : Price of the book
 
    ### Methods :
           • getBookName() : Returns book name
