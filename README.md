@@ -114,3 +114,15 @@ Ensure that the class name passed to **java** matches the name of the file conta
 •	Transactions like performing CRUD operations are handled and updating the details accordingly.
 
 •	Error handling for invalid inputs and ensuring data integrity.
+
+
+# OUTPUT 
+
+
+<img width="839" alt="lms" src="https://github.com/supriyapandey15/Library-Management-System/assets/113895235/8a6efec9-f935-46d1-8f74-cac10ad9358e">
+
+
+
+
+
+<img width="826" alt="lms1" src="https://github.com/supriyapandey15/Library-Management-System/assets/113895235/61b668ee-1988-4b3f-8a9a-d412fb962048">
